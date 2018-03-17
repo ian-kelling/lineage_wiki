@@ -84,3 +84,4 @@ url: https://wiki.lineageos.org
 
 plugins:
   - jekyll-redirect-from
+theme: jekyll-theme-slate
